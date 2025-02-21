@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PigeonMan365
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning java
+- 👀 I’m studying in cybersecurity
+- 🌱 I’m currently learning ai in my free time
 - 💞️ I’m looking to collaborate on begginer projects
 
 <!---
